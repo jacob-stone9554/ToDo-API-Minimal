@@ -7,3 +7,5 @@ It is build using the ASP.NET Core 8 framework and uses Entity Framework Core fo
 It manipulates a single model, Item, using the HTTP verbs, GET, PUT, POST, and DELETE.
 
 It uses MinimalAPI controllers, so most of the action happens in Program.cs.
+
+I am developing a functionally identical API using traditional controllers at the same time.
